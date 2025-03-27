@@ -3,7 +3,9 @@
 Um aplicativo simples de lista de tarefas (To-Do) desenvolvido com **Flutter** e **SQLite**, ideal para estudos de persistência local de dados no mobile.  
 Permite adicionar, listar, concluir e remover tarefas com persistência no dispositivo.
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4aa35874-15d8-4e4a-a48c-74c023e304ae" width="300" />
+</p>
 
 ## 📱 Funcionalidades
 
@@ -38,3 +40,6 @@ flutter run
 
 #### P.S. Para que esse projetinho flutter funcione, você precisa rodar em um iOS ou Android por conta da lib sqflite
 
+#### Vídeo demonstrativo:
+
+https://github.com/user-attachments/assets/db07149b-c4b3-43df-b625-30056eddbda9
